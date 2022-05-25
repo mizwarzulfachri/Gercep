@@ -9,8 +9,18 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Gercep">
+        <activity android:name=".RiwayatBooking"
+            android:parentActivityName=".Menu">
+        </activity>
+        <activity android:name=".BookingPesawat"
+            android:parentActivityName=".Menu">
+        </activity>
+        <activity android:name=".Register"
+            android:parentActivityName=".Login">
+        </activity>
+
         <activity
-            android:name=".BookingPesawat"
+            android:name=".Login"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

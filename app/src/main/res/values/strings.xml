@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Gercep</string>
+    <string name="textview">TextView</string>
+    <string name="Gercep">Gercep</string>
+    <string name="email">Email</string>
+    <string name="password">Kata sandi</string>
+    <string name="Cpassword">Konfirmasi kata sandi</string>
+    <string name="Masuk">Masuk</string>
+    <string name="DaftarS">Daftar Sekarang!</string>
+    <string name="Daftar">Daftar</string>
+    <string name="Keluar">Keluar</string>
+    <string name="booking_pesawat">Booking Pesawat</string>
+    <string name="booking_hotel">Booking Hotel</string>
+    <string name="booking_kereta_api">Booking Kereta Api</string>
+    <string name="riwayat_pesanan">Riwayat Pesanan</string>
 </resources>
